@@ -27,7 +27,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Data Enthusiast", "Mobile Developer.", "Japan Culture Enthuasim."],
+		strings: ["Data Scientist", "", "Japan Culture Enthuasim."],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
